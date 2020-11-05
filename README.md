@@ -1,1 +1,3 @@
-アプリ「ML図鑑」のDartファイルの部分のみの掲載になり、pubspec.yamlやassets, ios, androidフォルダー等のファイルは公開しておりません
+# 使用技術
+アプリ開発: Dart->Flutter(Android Studio)
+ビットコインの価格予測: PyTorch(Python)
